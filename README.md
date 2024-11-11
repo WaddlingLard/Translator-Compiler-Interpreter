@@ -1,4 +1,4 @@
-# Homework #3: TA
+# Project: Translator Assignment
 
 * Author: Brian Wu
 * Class: CS354 Section #001
