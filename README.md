@@ -38,6 +38,8 @@ java Main "code block" "etc..."
 Keep in mind to make sure the grammar is respected. Otherwise it'll throw errors and become angry.
 Also, use quotes (I FORGOT ABOUT THEM).
 
+The grammar you can use is in each folder in the `GRAMMAR.txt` files.
+
 ## Results 
 
 This program is in a 100% working state. The test suite should be more than enough to see each feature
