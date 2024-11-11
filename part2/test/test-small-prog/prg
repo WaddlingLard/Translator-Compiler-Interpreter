@@ -1,0 +1,1 @@
+x=3; if x<5 then x=8 else x=2; while x>5 do x=x-1

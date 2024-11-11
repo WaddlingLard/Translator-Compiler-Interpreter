@@ -1,0 +1,4 @@
+test-three/gen.c: In function ‘main’:
+test-three/gen.c:3:16: warning: variable ‘z’ set but not used [-Wunused-but-set-variable]
+   double x, y, z;
+                ^

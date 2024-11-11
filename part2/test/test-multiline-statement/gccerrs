@@ -1,0 +1,4 @@
+test-multiline-statement/gen.c: In function ‘main’:
+test-multiline-statement/gen.c:3:16: warning: variable ‘z’ set but not used [-Wunused-but-set-variable]
+   double x, y, z;
+                ^

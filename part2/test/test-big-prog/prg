@@ -1,0 +1,1 @@
+begin rd x; if x>3 then if x==5 then x=x+5 else x=x+6 else x=x-1; while x>3 do x=x-1 end
